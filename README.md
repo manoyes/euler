@@ -1,4 +1,5 @@
-euler
-=====
+# Project Euler Codes
 
-Codes to help solve Project Euler problems.
+This repository contains code I've used to solve Project Euler problems.
+
+https://projecteuler.net/
